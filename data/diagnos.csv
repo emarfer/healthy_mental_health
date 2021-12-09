@@ -1,0 +1,88 @@
+code,diag
+F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos"
+F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos
+F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes"
+F30-39,"Trastornos del estado de animo, trastornos afectivos"
+F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos"
+F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos
+F60-69,Trastornos de la personalidad y del comportamiento en adultos
+F70-79,Retraso mental
+F80-89,Trastornos del desarrollo psicológico
+F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia
+F99,Trastornos mentales sin especificar
+F00,Demencia en la enfermedad de Alzheimer
+F01,Demencia vascular
+F02,Demencia en otras enfermedades clasificadas
+F03,Demencia sin especificar
+F04,"Síndrome amnésico orgánico, no inducido por alcohol o por otros psicotrópicos"
+F05,"Delírium, no inducido por alcohol o por otros psicotrópicos"
+F06,"Otros trastornos mentales debidos a daños neuronales, disfunciones y enfermedades físicas"
+F07,"Trastornos de personalidad y comportamiento debido a enfermedades neuronales, daños y disfunciones"
+F08,Trastorno narcisista de la personalidad.
+F09,Trastornos mentales orgánicos o sintomáticos sin especificar
+F10,Trastornos mentales y de comportamiento debidos al consumo de alcohol
+F11,Trastornos mentales y de comportamiento debidos al consumo de opioides
+F12,Trastornos mentales y de comportamiento debidos al consumo de cannabinoides
+F13,Trastornos mentales y de comportamiento debidos al consumo de sedantes o hipnóticos
+F14,Trastornos mentales y de comportamiento debidos al consumo de cocaína
+F15,"Trastornos mentales y de comportamiento debidos al consumo de otros estimulantes, incluyendo la cafeína"
+F16,Trastornos mentales y de comportamiento debidos al consumo de alucinógenos
+F17,Trastornos mentales y de comportamiento debidos al consumo de tabaco
+F18,Trastornos mentales y de comportamiento debidos al consumo de disolventes volátiles
+F19,Trastornos mentales y de comportamiento debidos al consumo de múltiples drogas y otros psicotrópicos
+F20,Esquizofrenia
+F21,Trastorno esquizotípico
+F22,Trastornos delirantes persistentes
+F23,Trastornos psicóticos agudos y transitorios
+F24,Trastorno de ideas delirantes inducidas
+F25,Trastornos esquizoafectivos
+F28,Otros trastornos psicóticos no orgánicos
+F29,Psicosis no orgánica sin especificar
+F30,Episodio maníaco
+F31,Trastorno bipolar
+F32,"Trastorno depresivo mayor, episodio único"
+F33,"Trastorno depresivo mayor, recurrente"
+F34,Trastornos persistentes del estado de ánimo [afectivos]
+F39,"Trastorno del estado de ánimo [afectivo], no especificado"
+F40,Trastornos fóbicos de ansiedad
+F41,Otros trastornos de ansiedad
+F42,Trastorno obsesivo-compulsivo
+F43,Reacción al stress grave y trastornos de adaptación
+F44,Trastorno de conversión disociativo
+F45,Trastorno somatomorfo
+F48,Otras neurosis
+F50,Trastornos de la ingestión de alimentos
+F51,Trastornos del sueño no orgánicos
+F52,Disfunción sexual no ocasionada por trastornos ni enfermedades orgánicas
+F53,Trastornos mentales y de comportamiento asociados con el puerperio no clasificados
+F54,Factores psicológicos y de comportamiento asociados con los desórdenes o enfermedades clasificados
+F55,Abuso de sustancias que no producen dependencia
+F59,Síndromes de comportamiento sin especificar asociados con perturbaciones psicológicas y factores físicos
+F60,Trastorno de personalidad específico
+F62,"Cambios de personalidad duraderos, no atribuibles a enfermedades o daños cerebrales"
+F63,Trastornos impulsivos y de hábito
+F64,Trastornos de identidad de género
+F66,Trastornos psicológicos y de comportamiento asociados con el desarrollo y la orientación sexual
+F68,Otros trastornos de la personalidad y el comportamiento en adultos
+F69,Trastornos de la personalidad y el comportamiento en adultos sin especificar
+F70,Retraso mental leve
+F71,Retraso mental moderado
+F72,Retraso mental severo
+F73,Retraso mental profundo
+F78,Otros retrasos mentales
+F79,Retrasos mentales sin especificar
+F80,Trastornos específicos del lenguaje y del habla
+F81,Trastornos de desarrollo específicos de habilidades académicas
+F82,Trastornos de desarrollo específicos de funciones motoras
+F83,Trastornos de desarrollo específicos mixtos
+F84,Trastorno generalizado del desarrollo
+F88,Otros trastornos del desarrollo psicológico
+F89,Trastornos del desarrollo psicológico sin especificar
+F90,Trastornos hipercinéticos
+F91,Trastornos de conducta
+F92,Trastornos mixtos de conducta y emociones
+F93,Trastornos emocionales específicos en el comienzo de la niñez
+F94,Trastornos de funciones sociales específicos del comienzo de la niñez y la adolescencia
+F95,Tics
+F98,Otros trastornos emocionales y de comportamiento iniciados normalmente en la niñez y en la adolescencia
+F99,Trastorno mental no especificado en otra parte
