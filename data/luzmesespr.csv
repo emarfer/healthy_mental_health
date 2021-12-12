@@ -1,0 +1,625 @@
+mes,Provincia,horas
+Enero,Álava,9.44
+Enero,Albacete,9.79
+Enero,Alicante,9.84
+Enero,Almería,9.97
+Enero,Ávila,9.64
+Enero,Badajoz,9.8
+Enero,Islas Baleares,9.74
+Enero,Barcelona,9.58
+Enero,Burgos,9.49
+Enero,Cáceres,9.75
+Enero,Cádiz,9.99
+Enero,Castellón,9.7
+Enero,Ciudad Real,9.79
+Enero,Córdoba,9.88
+Enero,A Coruña,9.39
+Enero,Cuenca,9.69
+Enero,Girona,9.52
+Enero,Granada,9.94
+Enero,Guadalajara,9.64
+Enero,Guipúzcoa ,9.4
+Enero,Huelva,9.93
+Enero,Huesca,9.51
+Enero,Jaén,9.89
+Enero,León,9.46
+Enero,Lleida,9.55
+Enero,La Rioja,9.48
+Enero,Lugo,9.42
+Enero,Madrid,9.66
+Enero,Málaga,9.97
+Enero,Murcia,9.87
+Enero,Navarra,9.44
+Enero,Ourense,9.49
+Enero,Asturias,9.39
+Enero,Palencia,9.52
+Enero,Las Palmas,10.59
+Enero,Pontevedra,9.48
+Enero,Salamanca,9.62
+Enero,Santa Cruz de Tenerife,10.57
+Enero,Cantabria,9.38
+Enero,Segovia,9.62
+Enero,Sevilla,9.92
+Enero,Soria,9.54
+Enero,Tarragona,9.6
+Enero,Teruel,9.67
+Enero,Toledo,9.71
+Enero,Valencia,9.75
+Enero,Valladolid,9.55
+Enero,Vizcaya,9.4
+Enero,Zamora,9.57
+Enero,Zaragoza,9.55
+Enero,Ceuta,10.04
+Enero,Melilla,10.08
+Febrero,Álava,10.54
+Febrero,Albacete,10.74
+Febrero,Alicante,10.77
+Febrero,Almería,10.84
+Febrero,Ávila,10.66
+Febrero,Badajoz,10.74
+Febrero,Islas Baleares,10.71
+Febrero,Barcelona,10.62
+Febrero,Burgos,10.57
+Febrero,Cáceres,10.72
+Febrero,Cádiz,10.85
+Febrero,Castellón,10.69
+Febrero,Ciudad Real,10.74
+Febrero,Córdoba,10.79
+Febrero,A Coruña,10.51
+Febrero,Cuenca,10.68
+Febrero,Girona,10.59
+Febrero,Granada,10.83
+Febrero,Guadalajara,10.66
+Febrero,Guipúzcoa ,10.51
+Febrero,Huelva,10.82
+Febrero,Huesca,10.58
+Febrero,Jaén,10.8
+Febrero,León,10.55
+Febrero,Lleida,10.6
+Febrero,La Rioja,10.56
+Febrero,Lugo,10.53
+Febrero,Madrid,10.67
+Febrero,Málaga,10.85
+Febrero,Murcia,10.78
+Febrero,Navarra,10.54
+Febrero,Ourense,10.57
+Febrero,Asturias,10.51
+Febrero,Palencia,10.59
+Febrero,Las Palmas,11.2
+Febrero,Pontevedra,10.56
+Febrero,Salamanca,10.64
+Febrero,Santa Cruz de Tenerife,11.19
+Febrero,Cantabria,10.51
+Febrero,Segovia,10.64
+Febrero,Sevilla,10.81
+Febrero,Soria,10.6
+Febrero,Tarragona,10.63
+Febrero,Teruel,10.67
+Febrero,Toledo,10.7
+Febrero,Valencia,10.72
+Febrero,Valladolid,10.61
+Febrero,Vizcaya,10.52
+Febrero,Zamora,10.61
+Febrero,Zaragoza,10.6
+Febrero,Ceuta,10.88
+Febrero,Melilla,10.91
+Marzo,Álava,11.93
+Marzo,Albacete,11.95
+Marzo,Alicante,11.96
+Marzo,Almería,11.96
+Marzo,Ávila,11.95
+Marzo,Badajoz,11.95
+Marzo,Islas Baleares,11.95
+Marzo,Barcelona,11.94
+Marzo,Burgos,11.94
+Marzo,Cáceres,11.95
+Marzo,Cádiz,11.97
+Marzo,Castellón,11.95
+Marzo,Ciudad Real,11.95
+Marzo,Córdoba,11.96
+Marzo,A Coruña,11.93
+Marzo,Cuenca,11.95
+Marzo,Girona,11.94
+Marzo,Granada,11.96
+Marzo,Guadalajara,11.95
+Marzo,Guipúzcoa ,11.93
+Marzo,Huelva,11.96
+Marzo,Huesca,11.94
+Marzo,Jaén,11.96
+Marzo,León,11.94
+Marzo,Lleida,11.94
+Marzo,La Rioja,11.94
+Marzo,Lugo,11.93
+Marzo,Madrid,11.95
+Marzo,Málaga,11.96
+Marzo,Murcia,11.96
+Marzo,Navarra,11.94
+Marzo,Ourense,11.94
+Marzo,Asturias,11.93
+Marzo,Palencia,11.94
+Marzo,Las Palmas,12.0
+Marzo,Pontevedra,11.94
+Marzo,Salamanca,11.95
+Marzo,Santa Cruz de Tenerife,12.0
+Marzo,Cantabria,11.93
+Marzo,Segovia,11.94
+Marzo,Sevilla,11.96
+Marzo,Soria,11.94
+Marzo,Tarragona,11.94
+Marzo,Teruel,11.95
+Marzo,Toledo,11.95
+Marzo,Valencia,11.95
+Marzo,Valladolid,11.94
+Marzo,Vizcaya,11.93
+Marzo,Zamora,11.94
+Marzo,Zaragoza,11.94
+Marzo,Ceuta,11.97
+Marzo,Melilla,11.97
+Abril,Álava,13.39
+Abril,Albacete,13.23
+Abril,Alicante,13.2
+Abril,Almería,13.14
+Abril,Ávila,13.3
+Abril,Badajoz,13.22
+Abril,Islas Baleares,13.25
+Abril,Barcelona,13.33
+Abril,Burgos,13.37
+Abril,Cáceres,13.25
+Abril,Cádiz,13.13
+Abril,Castellón,13.26
+Abril,Ciudad Real,13.23
+Abril,Córdoba,13.18
+Abril,A Coruña,13.42
+Abril,Cuenca,13.27
+Abril,Girona,13.35
+Abril,Granada,13.15
+Abril,Guadalajara,13.3
+Abril,Guipúzcoa ,13.42
+Abril,Huelva,13.16
+Abril,Huesca,13.36
+Abril,Jaén,13.18
+Abril,León,13.38
+Abril,Lleida,13.34
+Abril,La Rioja,13.38
+Abril,Lugo,13.4
+Abril,Madrid,13.28
+Abril,Málaga,13.14
+Abril,Murcia,13.18
+Abril,Navarra,13.39
+Abril,Ourense,13.37
+Abril,Asturias,13.42
+Abril,Palencia,13.36
+Abril,Las Palmas,12.84
+Abril,Pontevedra,13.38
+Abril,Salamanca,13.31
+Abril,Santa Cruz de Tenerife,12.85
+Abril,Cantabria,13.42
+Abril,Segovia,13.31
+Abril,Sevilla,13.16
+Abril,Soria,13.35
+Abril,Tarragona,13.32
+Abril,Teruel,13.28
+Abril,Toledo,13.26
+Abril,Valencia,13.25
+Abril,Valladolid,13.34
+Abril,Vizcaya,13.41
+Abril,Zamora,13.33
+Abril,Zaragoza,13.34
+Abril,Ceuta,13.1
+Abril,Melilla,13.08
+Mayo,Álava,14.64
+Mayo,Albacete,14.31
+Mayo,Alicante,14.25
+Mayo,Almería,14.14
+Mayo,Ávila,14.45
+Mayo,Badajoz,14.3
+Mayo,Islas Baleares,14.35
+Mayo,Barcelona,14.51
+Mayo,Burgos,14.6
+Mayo,Cáceres,14.35
+Mayo,Cádiz,14.11
+Mayo,Castellón,14.39
+Mayo,Ciudad Real,14.31
+Mayo,Córdoba,14.22
+Mayo,A Coruña,14.69
+Mayo,Cuenca,14.4
+Mayo,Girona,14.56
+Mayo,Granada,14.16
+Mayo,Guadalajara,14.44
+Mayo,Guipúzcoa ,14.69
+Mayo,Huelva,14.17
+Mayo,Huesca,14.58
+Mayo,Jaén,14.21
+Mayo,León,14.62
+Mayo,Lleida,14.53
+Mayo,La Rioja,14.6
+Mayo,Lugo,14.66
+Mayo,Madrid,14.43
+Mayo,Málaga,14.13
+Mayo,Murcia,14.23
+Mayo,Navarra,14.64
+Mayo,Ourense,14.6
+Mayo,Asturias,14.69
+Mayo,Palencia,14.57
+Mayo,Las Palmas,13.54
+Mayo,Pontevedra,14.6
+Mayo,Salamanca,14.47
+Mayo,Santa Cruz de Tenerife,13.56
+Mayo,Cantabria,14.7
+Mayo,Segovia,14.47
+Mayo,Sevilla,14.18
+Mayo,Soria,14.54
+Mayo,Tarragona,14.49
+Mayo,Teruel,14.42
+Mayo,Toledo,14.38
+Mayo,Valencia,14.35
+Mayo,Valladolid,14.53
+Mayo,Vizcaya,14.68
+Mayo,Zamora,14.52
+Mayo,Zaragoza,14.53
+Mayo,Ceuta,14.07
+Mayo,Melilla,14.02
+Junio,Álava,15.28
+Junio,Albacete,14.86
+Junio,Alicante,14.79
+Junio,Almería,14.64
+Junio,Ávila,15.04
+Junio,Badajoz,14.85
+Junio,Islas Baleares,14.92
+Junio,Barcelona,15.12
+Junio,Burgos,15.23
+Junio,Cáceres,14.91
+Junio,Cádiz,14.61
+Junio,Castellón,14.96
+Junio,Ciudad Real,14.85
+Junio,Córdoba,14.74
+Junio,A Coruña,15.35
+Junio,Cuenca,14.97
+Junio,Girona,15.18
+Junio,Granada,14.68
+Junio,Guadalajara,15.03
+Junio,Guipúzcoa ,15.34
+Junio,Huelva,14.68
+Junio,Huesca,15.2
+Junio,Jaén,14.73
+Junio,León,15.26
+Junio,Lleida,15.14
+Junio,La Rioja,15.24
+Junio,Lugo,15.3
+Junio,Madrid,15.01
+Junio,Málaga,14.63
+Junio,Murcia,14.76
+Junio,Navarra,15.28
+Junio,Ourense,15.22
+Junio,Asturias,15.35
+Junio,Palencia,15.19
+Junio,Las Palmas,13.9
+Junio,Pontevedra,15.24
+Junio,Salamanca,15.07
+Junio,Santa Cruz de Tenerife,13.92
+Junio,Cantabria,15.36
+Junio,Segovia,15.07
+Junio,Sevilla,14.7
+Junio,Soria,15.16
+Junio,Tarragona,15.09
+Junio,Teruel,15.0
+Junio,Toledo,14.95
+Junio,Valencia,14.91
+Junio,Valladolid,15.14
+Junio,Vizcaya,15.34
+Junio,Zamora,15.13
+Junio,Zaragoza,15.15
+Junio,Ceuta,14.56
+Junio,Melilla,14.5
+Julio,Álava,14.98
+Julio,Albacete,14.6
+Julio,Alicante,14.54
+Julio,Almería,14.4
+Julio,Ávila,14.75
+Julio,Badajoz,14.58
+Julio,Islas Baleares,14.65
+Julio,Barcelona,14.83
+Julio,Burgos,14.92
+Julio,Cáceres,14.64
+Julio,Cádiz,14.37
+Julio,Castellón,14.69
+Julio,Ciudad Real,14.59
+Julio,Córdoba,14.49
+Julio,A Coruña,15.03
+Julio,Cuenca,14.7
+Julio,Girona,14.89
+Julio,Granada,14.43
+Julio,Guadalajara,14.75
+Julio,Guipúzcoa ,15.03
+Julio,Huelva,14.44
+Julio,Huesca,14.9
+Julio,Jaén,14.48
+Julio,León,14.95
+Julio,Lleida,14.85
+Julio,La Rioja,14.93
+Julio,Lugo,14.99
+Julio,Madrid,14.73
+Julio,Málaga,14.39
+Julio,Murcia,14.5
+Julio,Navarra,14.98
+Julio,Ourense,14.92
+Julio,Asturias,15.03
+Julio,Palencia,14.89
+Julio,Las Palmas,13.73
+Julio,Pontevedra,14.93
+Julio,Salamanca,14.78
+Julio,Santa Cruz de Tenerife,13.75
+Julio,Cantabria,15.05
+Julio,Segovia,14.78
+Julio,Sevilla,14.45
+Julio,Soria,14.86
+Julio,Tarragona,14.8
+Julio,Teruel,14.72
+Julio,Toledo,14.68
+Julio,Valencia,14.64
+Julio,Valladolid,14.85
+Julio,Vizcaya,15.02
+Julio,Zamora,14.84
+Julio,Zaragoza,14.85
+Julio,Ceuta,14.32
+Julio,Melilla,14.27
+Agosto,Álava,13.89
+Agosto,Albacete,13.66
+Agosto,Alicante,13.62
+Agosto,Almería,13.54
+Agosto,Ávila,13.75
+Agosto,Badajoz,13.65
+Agosto,Islas Baleares,13.69
+Agosto,Barcelona,13.8
+Agosto,Burgos,13.86
+Agosto,Cáceres,13.69
+Agosto,Cádiz,13.52
+Agosto,Castellón,13.72
+Agosto,Ciudad Real,13.66
+Agosto,Córdoba,13.59
+Agosto,A Coruña,13.93
+Agosto,Cuenca,13.72
+Agosto,Girona,13.84
+Agosto,Granada,13.56
+Agosto,Guadalajara,13.75
+Agosto,Guipúzcoa ,13.92
+Agosto,Huelva,13.56
+Agosto,Huesca,13.85
+Agosto,Jaén,13.59
+Agosto,León,13.88
+Agosto,Lleida,13.81
+Agosto,La Rioja,13.87
+Agosto,Lugo,13.9
+Agosto,Madrid,13.74
+Agosto,Málaga,13.53
+Agosto,Murcia,13.6
+Agosto,Navarra,13.89
+Agosto,Ourense,13.86
+Agosto,Asturias,13.93
+Agosto,Palencia,13.84
+Agosto,Las Palmas,13.12
+Agosto,Pontevedra,13.86
+Agosto,Salamanca,13.77
+Agosto,Santa Cruz de Tenerife,13.13
+Agosto,Cantabria,13.93
+Agosto,Segovia,13.77
+Agosto,Sevilla,13.57
+Agosto,Soria,13.82
+Agosto,Tarragona,13.79
+Agosto,Teruel,13.74
+Agosto,Toledo,13.71
+Agosto,Valencia,13.69
+Agosto,Valladolid,13.82
+Agosto,Vizcaya,13.92
+Agosto,Zamora,13.81
+Agosto,Zaragoza,13.82
+Agosto,Ceuta,13.49
+Agosto,Melilla,13.46
+Septiembre,Álava,12.5
+Septiembre,Albacete,12.45
+Septiembre,Alicante,12.44
+Septiembre,Almería,12.42
+Septiembre,Ávila,12.47
+Septiembre,Badajoz,12.44
+Septiembre,Islas Baleares,12.45
+Septiembre,Barcelona,12.48
+Septiembre,Burgos,12.49
+Septiembre,Cáceres,12.45
+Septiembre,Cádiz,12.42
+Septiembre,Castellón,12.46
+Septiembre,Ciudad Real,12.44
+Septiembre,Córdoba,12.43
+Septiembre,A Coruña,12.51
+Septiembre,Cuenca,12.46
+Septiembre,Girona,12.49
+Septiembre,Granada,12.42
+Septiembre,Guadalajara,12.46
+Septiembre,Guipúzcoa ,12.51
+Septiembre,Huelva,12.42
+Septiembre,Huesca,12.49
+Septiembre,Jaén,12.43
+Septiembre,León,12.49
+Septiembre,Lleida,12.48
+Septiembre,La Rioja,12.49
+Septiembre,Lugo,12.5
+Septiembre,Madrid,12.46
+Septiembre,Málaga,12.42
+Septiembre,Murcia,12.43
+Septiembre,Navarra,12.5
+Septiembre,Ourense,12.49
+Septiembre,Asturias,12.5
+Septiembre,Palencia,12.49
+Septiembre,Las Palmas,12.32
+Septiembre,Pontevedra,12.49
+Septiembre,Salamanca,12.47
+Septiembre,Santa Cruz de Tenerife,12.33
+Septiembre,Cantabria,12.51
+Septiembre,Segovia,12.46
+Septiembre,Sevilla,12.42
+Septiembre,Soria,12.48
+Septiembre,Tarragona,12.47
+Septiembre,Teruel,12.47
+Septiembre,Toledo,12.46
+Septiembre,Valencia,12.45
+Septiembre,Valladolid,12.48
+Septiembre,Vizcaya,12.5
+Septiembre,Zamora,12.48
+Septiembre,Zaragoza,12.48
+Septiembre,Ceuta,12.41
+Septiembre,Melilla,12.4
+Octubre,Álava,11.05
+Octubre,Albacete,11.18
+Octubre,Alicante,11.2
+Octubre,Almería,11.25
+Octubre,Ávila,11.13
+Octubre,Badajoz,11.18
+Octubre,Islas Baleares,11.16
+Octubre,Barcelona,11.1
+Octubre,Burgos,11.07
+Octubre,Cáceres,11.17
+Octubre,Cádiz,11.26
+Octubre,Castellón,11.15
+Octubre,Ciudad Real,11.18
+Octubre,Córdoba,11.22
+Octubre,A Coruña,11.03
+Octubre,Cuenca,11.15
+Octubre,Girona,11.08
+Octubre,Granada,11.24
+Octubre,Guadalajara,11.13
+Octubre,Guipúzcoa ,11.03
+Octubre,Huelva,11.23
+Octubre,Huesca,11.07
+Octubre,Jaén,11.22
+Octubre,León,11.06
+Octubre,Lleida,11.09
+Octubre,La Rioja,11.06
+Octubre,Lugo,11.04
+Octubre,Madrid,11.13
+Octubre,Málaga,11.25
+Octubre,Murcia,11.21
+Octubre,Navarra,11.05
+Octubre,Ourense,11.07
+Octubre,Asturias,11.03
+Octubre,Palencia,11.08
+Octubre,Las Palmas,11.49
+Octubre,Pontevedra,11.06
+Octubre,Salamanca,11.12
+Octubre,Santa Cruz de Tenerife,11.48
+Octubre,Cantabria,11.03
+Octubre,Segovia,11.12
+Octubre,Sevilla,11.23
+Octubre,Soria,11.09
+Octubre,Tarragona,11.11
+Octubre,Teruel,11.14
+Octubre,Toledo,11.15
+Octubre,Valencia,11.17
+Octubre,Valladolid,11.09
+Octubre,Vizcaya,11.03
+Octubre,Zamora,11.1
+Octubre,Zaragoza,11.09
+Octubre,Ceuta,11.28
+Octubre,Melilla,11.3
+Noviembre,Álava,9.77
+Noviembre,Albacete,10.07
+Noviembre,Alicante,10.12
+Noviembre,Almería,10.22
+Noviembre,Ávila,9.94
+Noviembre,Badajoz,10.08
+Noviembre,Islas Baleares,10.03
+Noviembre,Barcelona,9.89
+Noviembre,Burgos,9.81
+Noviembre,Cáceres,10.03
+Noviembre,Cádiz,10.25
+Noviembre,Castellón,10.0
+Noviembre,Ciudad Real,10.07
+Noviembre,Córdoba,10.15
+Noviembre,A Coruña,9.72
+Noviembre,Cuenca,9.99
+Noviembre,Girona,9.84
+Noviembre,Granada,10.2
+Noviembre,Guadalajara,9.95
+Noviembre,Guipúzcoa ,9.73
+Noviembre,Huelva,10.19
+Noviembre,Huesca,9.83
+Noviembre,Jaén,10.16
+Noviembre,León,9.79
+Noviembre,Lleida,9.87
+Noviembre,La Rioja,9.8
+Noviembre,Lugo,9.75
+Noviembre,Madrid,9.96
+Noviembre,Málaga,10.23
+Noviembre,Murcia,10.15
+Noviembre,Navarra,9.77
+Noviembre,Ourense,9.81
+Noviembre,Asturias,9.72
+Noviembre,Palencia,9.84
+Noviembre,Las Palmas,10.77
+Noviembre,Pontevedra,9.8
+Noviembre,Salamanca,9.92
+Noviembre,Santa Cruz de Tenerife,10.75
+Noviembre,Cantabria,9.72
+Noviembre,Segovia,9.92
+Noviembre,Sevilla,10.19
+Noviembre,Soria,9.86
+Noviembre,Tarragona,9.91
+Noviembre,Teruel,9.97
+Noviembre,Toledo,10.01
+Noviembre,Valencia,10.03
+Noviembre,Valladolid,9.87
+Noviembre,Vizcaya,9.73
+Noviembre,Zamora,9.88
+Noviembre,Zaragoza,9.87
+Noviembre,Ceuta,10.29
+Noviembre,Melilla,10.33
+Diciembre,Álava,9.09
+Diciembre,Albacete,9.49
+Diciembre,Alicante,9.55
+Diciembre,Almería,9.69
+Diciembre,Ávila,9.32
+Diciembre,Badajoz,9.5
+Diciembre,Islas Baleares,9.43
+Diciembre,Barcelona,9.25
+Diciembre,Burgos,9.14
+Diciembre,Cáceres,9.44
+Diciembre,Cádiz,9.72
+Diciembre,Castellón,9.39
+Diciembre,Ciudad Real,9.49
+Diciembre,Córdoba,9.59
+Diciembre,A Coruña,9.03
+Diciembre,Cuenca,9.38
+Diciembre,Girona,9.18
+Diciembre,Granada,9.66
+Diciembre,Guadalajara,9.32
+Diciembre,Guipúzcoa ,9.03
+Diciembre,Huelva,9.65
+Diciembre,Huesca,9.17
+Diciembre,Jaén,9.6
+Diciembre,León,9.12
+Diciembre,Lleida,9.22
+Diciembre,La Rioja,9.13
+Diciembre,Lugo,9.07
+Diciembre,Madrid,9.35
+Diciembre,Málaga,9.7
+Diciembre,Murcia,9.58
+Diciembre,Navarra,9.09
+Diciembre,Ourense,9.15
+Diciembre,Asturias,9.03
+Diciembre,Palencia,9.18
+Diciembre,Las Palmas,10.4
+Diciembre,Pontevedra,9.14
+Diciembre,Salamanca,9.29
+Diciembre,Santa Cruz de Tenerife,10.37
+Diciembre,Cantabria,9.02
+Diciembre,Segovia,9.29
+Diciembre,Sevilla,9.64
+Diciembre,Soria,9.21
+Diciembre,Tarragona,9.27
+Diciembre,Teruel,9.35
+Diciembre,Toledo,9.4
+Diciembre,Valencia,9.44
+Diciembre,Valladolid,9.22
+Diciembre,Vizcaya,9.04
+Diciembre,Zamora,9.23
+Diciembre,Zaragoza,9.22
+Diciembre,Ceuta,9.77
+Diciembre,Melilla,9.83

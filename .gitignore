@@ -2,3 +2,6 @@
 .env
 /data/morbilidad/anterior
 /notebooks/chromedriver.exe
+/notebooks/eurostats_descartado.ipynb
+/notebooks/.ipynb_checkpoints
+/notebooks/selenium
