@@ -8,3 +8,4 @@
 /data/eurostats_descartado
 /sql_data
 /notebooks/escrapeo_ambientales_descartado.ipynb
+/src/__pycache__

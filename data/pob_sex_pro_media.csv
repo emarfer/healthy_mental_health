@@ -1,13 +1,13 @@
 cod_pro,Provincias,Sexo,Total
-01,Araba/Álava,Hombres,160845.7
-01,Araba/Álava,Mujeres,163807.9
-01,Araba/Álava,Total,324653.6
+01,Álava,Hombres,160845.7
+01,Álava,Mujeres,163807.9
+01,Álava,Total,324653.6
 02,Albacete,Hombres,197493.6
 02,Albacete,Mujeres,197577.6
 02,Albacete,Total,395071.3
-03,Alicante/Alacant,Hombres,935786.2
-03,Alicante/Alacant,Mujeres,947180.2
-03,Alicante/Alacant,Total,1882966.4
+03,Alicante,Hombres,935786.2
+03,Alicante,Mujeres,947180.2
+03,Alicante,Total,1882966.4
 04,Almería,Hombres,360336.7
 04,Almería,Mujeres,346017.8
 04,Almería,Total,706354.5
@@ -17,9 +17,9 @@ cod_pro,Provincias,Sexo,Total
 06,Badajoz,Hombres,339558.4
 06,Badajoz,Mujeres,345718.7
 06,Badajoz,Total,685277.1
-07,"Balears, Illes",Hombres,559219.9
-07,"Balears, Illes",Mujeres,561809.8
-07,"Balears, Illes",Total,1121029.7
+07,Baleares,Hombres,559219.9
+07,Baleares,Mujeres,561809.8
+07,Baleares,Total,1121029.7
 08,Barcelona,Hombres,2725362.9
 08,Barcelona,Mujeres,2848907.5
 08,Barcelona,Total,5574270.5
@@ -32,18 +32,18 @@ cod_pro,Provincias,Sexo,Total
 11,Cádiz,Hombres,613304.2
 11,Cádiz,Mujeres,627297.2
 11,Cádiz,Total,1240601.4
-12,Castellón/Castelló,Hombres,293753.8
-12,Castellón/Castelló,Mujeres,295508.1
-12,Castellón/Castelló,Total,589261.9
+12,Castellón,Hombres,293753.8
+12,Castellón,Mujeres,295508.1
+12,Castellón,Total,589261.9
 13,Ciudad Real,Hombres,254651.8
 13,Ciudad Real,Mujeres,258760.7
 13,Ciudad Real,Total,513412.5
 14,Córdoba,Hombres,390098.8
 14,Córdoba,Mujeres,404664.5
 14,Córdoba,Total,794763.4
-15,"Coruña, A",Hombres,542938.7
-15,"Coruña, A",Mujeres,587919.5
-15,"Coruña, A",Total,1130858.2
+15,A Coruña,Hombres,542938.7
+15,A Coruña,Mujeres,587919.5
+15,A Coruña,Total,1130858.2
 16,Cuenca,Hombres,103915.0
 16,Cuenca,Mujeres,102226.6
 16,Cuenca,Total,206141.6
@@ -56,9 +56,9 @@ cod_pro,Provincias,Sexo,Total
 19,Guadalajara,Hombres,130317.2
 19,Guadalajara,Mujeres,125560.4
 19,Guadalajara,Total,255877.5
-20,Gipuzkoa,Hombres,350558.9
-20,Gipuzkoa,Mujeres,366092.9
-20,Gipuzkoa,Total,716651.8
+20,Guipúzcoa,Hombres,350558.9
+20,Guipúzcoa,Mujeres,366092.9
+20,Guipúzcoa,Total,716651.8
 21,Huelva,Hombres,258262.0
 21,Huelva,Mujeres,262413.5
 21,Huelva,Total,520675.5
@@ -74,9 +74,9 @@ cod_pro,Provincias,Sexo,Total
 25,Lleida,Hombres,222200.5
 25,Lleida,Mujeres,215326.0
 25,Lleida,Total,437526.5
-26,"Rioja, La",Hombres,158297.4
-26,"Rioja, La",Mujeres,160850.2
-26,"Rioja, La",Total,319147.5
+26,La Rioja,Hombres,158297.4
+26,La Rioja,Mujeres,160850.2
+26,La Rioja,Total,319147.5
 27,Lugo,Hombres,165038.2
 27,Lugo,Mujeres,175061.5
 27,Lugo,Total,340099.6
@@ -101,9 +101,9 @@ cod_pro,Provincias,Sexo,Total
 34,Palencia,Hombres,82396.0
 34,Palencia,Mujeres,83864.0
 34,Palencia,Total,166260.0
-35,"Palmas, Las",Hombres,552165.2
-35,"Palmas, Las",Mujeres,552344.5
-35,"Palmas, Las",Total,1104509.7
+35,Las Palmas,Hombres,552165.2
+35,Las Palmas,Mujeres,552344.5
+35,Las Palmas,Total,1104509.7
 36,Pontevedra,Hombres,459717.3
 36,Pontevedra,Mujeres,490707.8
 36,Pontevedra,Total,950425.1
@@ -134,15 +134,15 @@ cod_pro,Provincias,Sexo,Total
 45,Toledo,Hombres,352102.7
 45,Toledo,Mujeres,345793.9
 45,Toledo,Total,697896.6
-46,Valencia/València,Hombres,1260492.3
-46,Valencia/València,Mujeres,1302171.5
-46,Valencia/València,Total,2562663.7
+46,Valencia,Hombres,1260492.3
+46,Valencia,Mujeres,1302171.5
+46,Valencia,Total,2562663.7
 47,Valladolid,Hombres,257547.5
 47,Valladolid,Mujeres,269305.0
 47,Valladolid,Total,526852.5
-48,Bizkaia,Hombres,557397.1
-48,Bizkaia,Mujeres,595572.2
-48,Bizkaia,Total,1152969.3
+48,Vizcaya,Hombres,557397.1
+48,Vizcaya,Mujeres,595572.2
+48,Vizcaya,Total,1152969.3
 49,Zamora,Hombres,90615.7
 49,Zamora,Mujeres,92278.2
 49,Zamora,Total,182893.9
