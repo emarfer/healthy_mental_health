@@ -1,0 +1,157 @@
+cod_pro,Provincias,Sexo,Total
+01,Araba/Álava,Hombres,160845.7
+01,Araba/Álava,Mujeres,163807.9
+01,Araba/Álava,Total,324653.6
+02,Albacete,Hombres,197493.6
+02,Albacete,Mujeres,197577.6
+02,Albacete,Total,395071.3
+03,Alicante/Alacant,Hombres,935786.2
+03,Alicante/Alacant,Mujeres,947180.2
+03,Alicante/Alacant,Total,1882966.4
+04,Almería,Hombres,360336.7
+04,Almería,Mujeres,346017.8
+04,Almería,Total,706354.5
+05,Ávila,Hombres,82924.7
+05,Ávila,Mujeres,81952.2
+05,Ávila,Total,164876.9
+06,Badajoz,Hombres,339558.4
+06,Badajoz,Mujeres,345718.7
+06,Badajoz,Total,685277.1
+07,"Balears, Illes",Hombres,559219.9
+07,"Balears, Illes",Mujeres,561809.8
+07,"Balears, Illes",Total,1121029.7
+08,Barcelona,Hombres,2725362.9
+08,Barcelona,Mujeres,2848907.5
+08,Barcelona,Total,5574270.5
+09,Burgos,Hombres,183215.8
+09,Burgos,Mujeres,182097.5
+09,Burgos,Total,365313.4
+10,Cáceres,Hombres,201077.9
+10,Cáceres,Mujeres,203973.0
+10,Cáceres,Total,405050.9
+11,Cádiz,Hombres,613304.2
+11,Cádiz,Mujeres,627297.2
+11,Cádiz,Total,1240601.4
+12,Castellón/Castelló,Hombres,293753.8
+12,Castellón/Castelló,Mujeres,295508.1
+12,Castellón/Castelló,Total,589261.9
+13,Ciudad Real,Hombres,254651.8
+13,Ciudad Real,Mujeres,258760.7
+13,Ciudad Real,Total,513412.5
+14,Córdoba,Hombres,390098.8
+14,Córdoba,Mujeres,404664.5
+14,Córdoba,Total,794763.4
+15,"Coruña, A",Hombres,542938.7
+15,"Coruña, A",Mujeres,587919.5
+15,"Coruña, A",Total,1130858.2
+16,Cuenca,Hombres,103915.0
+16,Cuenca,Mujeres,102226.6
+16,Cuenca,Total,206141.6
+17,Girona,Hombres,381470.4
+17,Girona,Mujeres,379111.1
+17,Girona,Total,760581.5
+18,Granada,Hombres,452677.7
+18,Granada,Mujeres,465128.8
+18,Granada,Total,917806.5
+19,Guadalajara,Hombres,130317.2
+19,Guadalajara,Mujeres,125560.4
+19,Guadalajara,Total,255877.5
+20,Gipuzkoa,Hombres,350558.9
+20,Gipuzkoa,Mujeres,366092.9
+20,Gipuzkoa,Total,716651.8
+21,Huelva,Hombres,258262.0
+21,Huelva,Mujeres,262413.5
+21,Huelva,Total,520675.5
+22,Huesca,Hombres,113296.7
+22,Huesca,Mujeres,110517.5
+22,Huesca,Total,223814.3
+23,Jaén,Hombres,323820.0
+23,Jaén,Mujeres,329316.4
+23,Jaén,Total,653136.4
+24,León,Hombres,233520.4
+24,León,Mujeres,245341.5
+24,León,Total,478861.9
+25,Lleida,Hombres,222200.5
+25,Lleida,Mujeres,215326.0
+25,Lleida,Total,437526.5
+26,"Rioja, La",Hombres,158297.4
+26,"Rioja, La",Mujeres,160850.2
+26,"Rioja, La",Total,319147.5
+27,Lugo,Hombres,165038.2
+27,Lugo,Mujeres,175061.5
+27,Lugo,Total,340099.6
+28,Madrid,Hombres,3135549.1
+28,Madrid,Mujeres,3394401.1
+28,Madrid,Total,6529950.2
+29,Málaga,Hombres,805577.3
+29,Málaga,Mujeres,833437.4
+29,Málaga,Total,1639014.6
+30,Murcia,Hombres,740759.1
+30,Murcia,Mujeres,734825.5
+30,Murcia,Total,1475584.5
+31,Navarra,Hombres,320515.7
+31,Navarra,Mujeres,324587.0
+31,Navarra,Total,645102.7
+32,Ourense,Hombres,153690.0
+32,Ourense,Mujeres,165970.7
+32,Ourense,Total,319660.7
+33,Asturias,Hombres,503049.5
+33,Asturias,Mujeres,548926.3
+33,Asturias,Total,1051975.8
+34,Palencia,Hombres,82396.0
+34,Palencia,Mujeres,83864.0
+34,Palencia,Total,166260.0
+35,"Palmas, Las",Hombres,552165.2
+35,"Palmas, Las",Mujeres,552344.5
+35,"Palmas, Las",Total,1104509.7
+36,Pontevedra,Hombres,459717.3
+36,Pontevedra,Mujeres,490707.8
+36,Pontevedra,Total,950425.1
+37,Salamanca,Hombres,165967.4
+37,Salamanca,Mujeres,174486.8
+37,Salamanca,Total,340454.2
+38,Santa Cruz de Tenerife,Hombres,502885.2
+38,Santa Cruz de Tenerife,Mujeres,515741.7
+38,Santa Cruz de Tenerife,Total,1018626.9
+39,Cantabria,Hombres,285521.4
+39,Cantabria,Mujeres,300993.9
+39,Cantabria,Total,586515.3
+40,Segovia,Hombres,79682.2
+40,Segovia,Mujeres,78544.9
+40,Segovia,Total,158227.1
+41,Sevilla,Hombres,948956.1
+41,Sevilla,Mujeres,989391.2
+41,Sevilla,Total,1938347.3
+42,Soria,Hombres,46362.2
+42,Soria,Mujeres,45145.5
+42,Soria,Total,91507.6
+43,Tarragona,Hombres,402977.5
+43,Tarragona,Mujeres,400803.5
+43,Tarragona,Total,803781.0
+44,Teruel,Hombres,70798.4
+44,Teruel,Mujeres,68339.5
+44,Teruel,Total,139137.8
+45,Toledo,Hombres,352102.7
+45,Toledo,Mujeres,345793.9
+45,Toledo,Total,697896.6
+46,Valencia/València,Hombres,1260492.3
+46,Valencia/València,Mujeres,1302171.5
+46,Valencia/València,Total,2562663.7
+47,Valladolid,Hombres,257547.5
+47,Valladolid,Mujeres,269305.0
+47,Valladolid,Total,526852.5
+48,Bizkaia,Hombres,557397.1
+48,Bizkaia,Mujeres,595572.2
+48,Bizkaia,Total,1152969.3
+49,Zamora,Hombres,90615.7
+49,Zamora,Mujeres,92278.2
+49,Zamora,Total,182893.9
+50,Zaragoza,Hombres,474209.3
+50,Zaragoza,Mujeres,490835.0
+50,Zaragoza,Total,965044.3
+51,Ceuta,Hombres,42733.1
+51,Ceuta,Mujeres,41265.1
+51,Ceuta,Total,83998.2
+52,Melilla,Hombres,42686.1
+52,Melilla,Mujeres,41057.3
+52,Melilla,Total,83743.4
