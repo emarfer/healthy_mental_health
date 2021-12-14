@@ -37,7 +37,7 @@ def diagnostics(url,elemento):
         dia[t.getText()[:110].split(' ',1)[0]] = t.getText()[:110].split(' ',1)[1]
     return pd.DataFrame([[key,dia[key]] for key in dia.keys()], columns = ["code","diag"])
     
-def calendariolunar(url,range1,range2):
+def calendariolunar(url_,range1,range2):
     """
     recibe una url y el rango de años de los que queremos datos
     (range2 = año después del año que queremos los datos)
@@ -49,7 +49,7 @@ def calendariolunar(url,range1,range2):
     callunar = []
     for i in range(range1,range2):
         
-        url = f'{url}{i}'
+        url = f'{url_}{i}'
         html = requests.get(url,verify=False)
         soup = BeautifulSoup(html.content,"html.parser")
         lunar_tab = soup.findAll('table')[0]

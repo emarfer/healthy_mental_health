@@ -10,3 +10,9 @@
 /notebooks/escrapeo_ambientales_descartado.ipynb
 /src/__pycache__
 /pages/__pycache__
+/notebooks/visualizaciones_varias.ipynb
+__pycache__
+.ipynb_checkpoints
+/pages/__pycache__
+/output
+/kepler/.ipynb_checkpoints
