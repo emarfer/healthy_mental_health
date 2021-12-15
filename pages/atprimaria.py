@@ -1,12 +1,18 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import streamlit.components.v1 as components
+import codecs
 
 def app():
-    trastornos = pd.read_csv('output/trastornos.csv')
-    trastornos = trastornos.set_index('cap')
-    st.dataframe(trastornos) 
-    at_title = pd.read_csv('output/yearcie10.csv')
-    fig = px.line(at_title, x="Año", y="Casos",color = 'cei10')
-    st.plotly_chart(fig, use_container_width=True)
+
+    # at_title = pd.read_csv('output/yearcie10.csv')
+    # fig = px.line(at_title, x="Año", y="Casos",color = 'cei10')
+    # fig.update_layout(width=1000,height=500)
+    # st.plotly_chart(fig, use_container_width=True)
+    
+           
+    prima=codecs.open("output/fig_atprim.html", 'r')
+    prima_tras = prima.read()
+    components.html(prima_tras,height=550, width=900,scrolling=True)
     

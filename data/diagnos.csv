@@ -1,78 +1,78 @@
-code,diag,cap,title
-F00,Demencia en la enfermedad de Alzheimer,F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos"
-F01,Demencia vascular,F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos"
-F02,Demencia en otras enfermedades clasificadas,F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos"
-F03,Demencia sin especificar,F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos"
-F04,"Síndrome amnésico orgánico, no inducido por alcohol o por otros psicotrópicos",F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos"
-F05,"Delírium, no inducido por alcohol o por otros psicotrópicos",F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos"
-F06,"Otros trastornos mentales debidos a daños neuronales, disfunciones y enfermedades físicas",F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos"
-F07,"Trastornos de personalidad y comportamiento debido a enfermedades neuronales, daños y disfunciones",F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos"
-F08,Trastorno narcisista de la personalidad.,F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos"
-F09,Trastornos mentales orgánicos o sintomáticos sin especificar,F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos"
-F10,Trastornos mentales y de comportamiento debidos al consumo de alcohol,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos
-F11,Trastornos mentales y de comportamiento debidos al consumo de opioides,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos
-F12,Trastornos mentales y de comportamiento debidos al consumo de cannabinoides,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos
-F13,Trastornos mentales y de comportamiento debidos al consumo de sedantes o hipnóticos,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos
-F14,Trastornos mentales y de comportamiento debidos al consumo de cocaína,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos
-F15,"Trastornos mentales y de comportamiento debidos al consumo de otros estimulantes, incluyendo la cafeína",F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos
-F16,Trastornos mentales y de comportamiento debidos al consumo de alucinógenos,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos
-F17,Trastornos mentales y de comportamiento debidos al consumo de tabaco,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos
-F18,Trastornos mentales y de comportamiento debidos al consumo de disolventes volátiles,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos
-F19,Trastornos mentales y de comportamiento debidos al consumo de múltiples drogas y otros psicotrópicos,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos
-F20,Esquizofrenia,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes"
-F21,Trastorno esquizotípico,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes"
-F22,Trastornos delirantes persistentes,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes"
-F23,Trastornos psicóticos agudos y transitorios,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes"
-F24,Trastorno de ideas delirantes inducidas,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes"
-F25,Trastornos esquizoafectivos,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes"
-F28,Otros trastornos psicóticos no orgánicos,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes"
-F29,Psicosis no orgánica sin especificar,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes"
-F30,Episodio maníaco,F30-39,"Trastornos del estado de animo, trastornos afectivos"
-F31,Trastorno bipolar,F30-39,"Trastornos del estado de animo, trastornos afectivos"
-F32,"Trastorno depresivo mayor, episodio único",F30-39,"Trastornos del estado de animo, trastornos afectivos"
-F33,"Trastorno depresivo mayor, recurrente",F30-39,"Trastornos del estado de animo, trastornos afectivos"
-F34,Trastornos persistentes del estado de ánimo [afectivos],F30-39,"Trastornos del estado de animo, trastornos afectivos"
-F39,"Trastorno del estado de ánimo [afectivo], no especificado",F30-39,"Trastornos del estado de animo, trastornos afectivos"
-F40,Trastornos fóbicos de ansiedad,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos"
-F41,Otros trastornos de ansiedad,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos"
-F42,Trastorno obsesivo-compulsivo,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos"
-F43,Reacción al stress grave y trastornos de adaptación,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos"
-F44,Trastorno de conversión disociativo,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos"
-F45,Trastorno somatomorfo,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos"
-F48,Otras neurosis,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos"
-F50,Trastornos de la ingestión de alimentos,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos
-F51,Trastornos del sueño no orgánicos,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos
-F52,Disfunción sexual no ocasionada por trastornos ni enfermedades orgánicas,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos
-F53,Trastornos mentales y de comportamiento asociados con el puerperio no clasificados,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos
-F54,Factores psicológicos y de comportamiento asociados con los desórdenes o enfermedades clasificados,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos
-F55,Abuso de sustancias que no producen dependencia,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos
-F59,Síndromes de comportamiento sin especificar asociados con perturbaciones psicológicas y factores físicos,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos
-F60,Trastorno de personalidad específico,F60-69,Trastornos de la personalidad y del comportamiento en adultos
-F62,"Cambios de personalidad duraderos, no atribuibles a enfermedades o daños cerebrales",F60-69,Trastornos de la personalidad y del comportamiento en adultos
-F63,Trastornos impulsivos y de hábito,F60-69,Trastornos de la personalidad y del comportamiento en adultos
-F64,Trastornos de identidad de género,F60-69,Trastornos de la personalidad y del comportamiento en adultos
-F66,Trastornos psicológicos y de comportamiento asociados con el desarrollo y la orientación sexual,F60-69,Trastornos de la personalidad y del comportamiento en adultos
-F68,Otros trastornos de la personalidad y el comportamiento en adultos,F60-69,Trastornos de la personalidad y del comportamiento en adultos
-F69,Trastornos de la personalidad y el comportamiento en adultos sin especificar,F60-69,Trastornos de la personalidad y del comportamiento en adultos
-F65,Trastornos de la preferencia sexual,F60-69,Trastornos de la personalidad y del comportamiento en adultos
-F70,Retraso mental leve,F70-79,Retraso mental
-F71,Retraso mental moderado,F70-79,Retraso mental
-F72,Retraso mental severo,F70-79,Retraso mental
-F73,Retraso mental profundo,F70-79,Retraso mental
-F78,Otros retrasos mentales,F70-79,Retraso mental
-F79,Retrasos mentales sin especificar,F70-79,Retraso mental
-F80,Trastornos específicos del lenguaje y del habla,F80-89,Trastornos del desarrollo psicológico
-F81,Trastornos de desarrollo específicos de habilidades académicas,F80-89,Trastornos del desarrollo psicológico
-F82,Trastornos de desarrollo específicos de funciones motoras,F80-89,Trastornos del desarrollo psicológico
-F83,Trastornos de desarrollo específicos mixtos,F80-89,Trastornos del desarrollo psicológico
-F84,Trastorno generalizado del desarrollo,F80-89,Trastornos del desarrollo psicológico
-F88,Otros trastornos del desarrollo psicológico,F80-89,Trastornos del desarrollo psicológico
-F89,Trastornos del desarrollo psicológico sin especificar,F80-89,Trastornos del desarrollo psicológico
-F90,Trastornos hipercinéticos,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia
-F91,Trastornos de conducta,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia
-F92,Trastornos mixtos de conducta y emociones,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia
-F93,Trastornos emocionales específicos en el comienzo de la niñez,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia
-F94,Trastornos de funciones sociales específicos del comienzo de la niñez y la adolescencia,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia
-F95,Tics,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia
-F98,Otros trastornos emocionales y de comportamiento iniciados normalmente en la niñez y en la adolescencia,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia
-F99,Trastorno mental no especificado en otra parte,F99,Trastornos mentales sin especificar
+code,diag,cap,title,resumen_cap
+F00,Demencia en la enfermedad de Alzheimer,F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",orgánicos/sintomáticos
+F01,Demencia vascular,F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",orgánicos/sintomáticos
+F02,Demencia en otras enfermedades clasificadas,F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",orgánicos/sintomáticos
+F03,Demencia sin especificar,F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",orgánicos/sintomáticos
+F04,"Síndrome amnésico orgánico, no inducido por alcohol o por otros psicotrópicos",F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",orgánicos/sintomáticos
+F05,"Delírium, no inducido por alcohol o por otros psicotrópicos",F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",orgánicos/sintomáticos
+F06,"Otros trastornos mentales debidos a daños neuronales, disfunciones y enfermedades físicas",F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",orgánicos/sintomáticos
+F07,"Trastornos de personalidad y comportamiento debido a enfermedades neuronales, daños y disfunciones",F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",orgánicos/sintomáticos
+F08,Trastorno narcisista de la personalidad.,F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",orgánicos/sintomáticos
+F09,Trastornos mentales orgánicos o sintomáticos sin especificar,F00-F09,"Trastornos mentales orgánicos, incluidos los trastornos sintomáticos",orgánicos/sintomáticos
+F10,Trastornos mentales y de comportamiento debidos al consumo de alcohol,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos,consumo psicotrópicos
+F11,Trastornos mentales y de comportamiento debidos al consumo de opioides,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos,consumo psicotrópicos
+F12,Trastornos mentales y de comportamiento debidos al consumo de cannabinoides,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos,consumo psicotrópicos
+F13,Trastornos mentales y de comportamiento debidos al consumo de sedantes o hipnóticos,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos,consumo psicotrópicos
+F14,Trastornos mentales y de comportamiento debidos al consumo de cocaína,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos,consumo psicotrópicos
+F15,"Trastornos mentales y de comportamiento debidos al consumo de otros estimulantes, incluyendo la cafeína",F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos,consumo psicotrópicos
+F16,Trastornos mentales y de comportamiento debidos al consumo de alucinógenos,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos,consumo psicotrópicos
+F17,Trastornos mentales y de comportamiento debidos al consumo de tabaco,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos,consumo psicotrópicos
+F18,Trastornos mentales y de comportamiento debidos al consumo de disolventes volátiles,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos,consumo psicotrópicos
+F19,Trastornos mentales y de comportamiento debidos al consumo de múltiples drogas y otros psicotrópicos,F10-F19,Trastornos mentales y de comportamiento debidos al consumo de psicotrópicos,consumo psicotrópicos
+F20,Esquizofrenia,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",esquizotípicos/delirantes
+F21,Trastorno esquizotípico,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",esquizotípicos/delirantes
+F22,Trastornos delirantes persistentes,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",esquizotípicos/delirantes
+F23,Trastornos psicóticos agudos y transitorios,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",esquizotípicos/delirantes
+F24,Trastorno de ideas delirantes inducidas,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",esquizotípicos/delirantes
+F25,Trastornos esquizoafectivos,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",esquizotípicos/delirantes
+F28,Otros trastornos psicóticos no orgánicos,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",esquizotípicos/delirantes
+F29,Psicosis no orgánica sin especificar,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",esquizotípicos/delirantes
+F30,Episodio maníaco,F30-39,"Trastornos del estado de animo, trastornos afectivos",animo/afectivos
+F31,Trastorno bipolar,F30-39,"Trastornos del estado de animo, trastornos afectivos",animo/afectivos
+F32,"Trastorno depresivo mayor, episodio único",F30-39,"Trastornos del estado de animo, trastornos afectivos",animo/afectivos
+F33,"Trastorno depresivo mayor, recurrente",F30-39,"Trastornos del estado de animo, trastornos afectivos",animo/afectivos
+F34,Trastornos persistentes del estado de ánimo [afectivos],F30-39,"Trastornos del estado de animo, trastornos afectivos",animo/afectivos
+F39,"Trastorno del estado de ánimo [afectivo], no especificado",F30-39,"Trastornos del estado de animo, trastornos afectivos",animo/afectivos
+F40,Trastornos fóbicos de ansiedad,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
+F41,Otros trastornos de ansiedad,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
+F42,Trastorno obsesivo-compulsivo,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
+F43,Reacción al stress grave y trastornos de adaptación,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
+F44,Trastorno de conversión disociativo,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
+F45,Trastorno somatomorfo,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
+F48,Otras neurosis,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
+F50,Trastornos de la ingestión de alimentos,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos,factores físicos /fisiológicos
+F51,Trastornos del sueño no orgánicos,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos,factores físicos /fisiológicos
+F52,Disfunción sexual no ocasionada por trastornos ni enfermedades orgánicas,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos,factores físicos /fisiológicos
+F53,Trastornos mentales y de comportamiento asociados con el puerperio no clasificados,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos,factores físicos /fisiológicos
+F54,Factores psicológicos y de comportamiento asociados con los desórdenes o enfermedades clasificados,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos,factores físicos /fisiológicos
+F55,Abuso de sustancias que no producen dependencia,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos,factores físicos /fisiológicos
+F59,Síndromes de comportamiento sin especificar asociados con perturbaciones psicológicas y factores físicos,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos,factores físicos /fisiológicos
+F60,Trastorno de personalidad específico,F60-69,Trastornos de la personalidad y del comportamiento en adultos,T. de la personalidad/comportamiento
+F62,"Cambios de personalidad duraderos, no atribuibles a enfermedades o daños cerebrales",F60-69,Trastornos de la personalidad y del comportamiento en adultos,T. de la personalidad/comportamiento
+F63,Trastornos impulsivos y de hábito,F60-69,Trastornos de la personalidad y del comportamiento en adultos,T. de la personalidad/comportamiento
+F64,Trastornos de identidad de género,F60-69,Trastornos de la personalidad y del comportamiento en adultos,T. de la personalidad/comportamiento
+F66,Trastornos psicológicos y de comportamiento asociados con el desarrollo y la orientación sexual,F60-69,Trastornos de la personalidad y del comportamiento en adultos,T. de la personalidad/comportamiento
+F68,Otros trastornos de la personalidad y el comportamiento en adultos,F60-69,Trastornos de la personalidad y del comportamiento en adultos,T. de la personalidad/comportamiento
+F69,Trastornos de la personalidad y el comportamiento en adultos sin especificar,F60-69,Trastornos de la personalidad y del comportamiento en adultos,T. de la personalidad/comportamiento
+F65,Trastornos de la preferencia sexual,F60-69,Trastornos de la personalidad y del comportamiento en adultos,T. de la personalidad/comportamiento
+F70,Retraso mental leve,F70-79,Retraso mental,deficiencia psíquica
+F71,Retraso mental moderado,F70-79,Retraso mental,deficiencia psíquica
+F72,Retraso mental severo,F70-79,Retraso mental,deficiencia psíquica
+F73,Retraso mental profundo,F70-79,Retraso mental,deficiencia psíquica
+F78,Otros retrasos mentales,F70-79,Retraso mental,deficiencia psíquica
+F79,Retrasos mentales sin especificar,F70-79,Retraso mental,deficiencia psíquica
+F80,Trastornos específicos del lenguaje y del habla,F80-89,Trastornos del desarrollo psicológico,desarrollo psicológico
+F81,Trastornos de desarrollo específicos de habilidades académicas,F80-89,Trastornos del desarrollo psicológico,desarrollo psicológico
+F82,Trastornos de desarrollo específicos de funciones motoras,F80-89,Trastornos del desarrollo psicológico,desarrollo psicológico
+F83,Trastornos de desarrollo específicos mixtos,F80-89,Trastornos del desarrollo psicológico,desarrollo psicológico
+F84,Trastorno generalizado del desarrollo,F80-89,Trastornos del desarrollo psicológico,desarrollo psicológico
+F88,Otros trastornos del desarrollo psicológico,F80-89,Trastornos del desarrollo psicológico,desarrollo psicológico
+F89,Trastornos del desarrollo psicológico sin especificar,F80-89,Trastornos del desarrollo psicológico,desarrollo psicológico
+F90,Trastornos hipercinéticos,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia,aparecen en niñez
+F91,Trastornos de conducta,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia,aparecen en niñez
+F92,Trastornos mixtos de conducta y emociones,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia,aparecen en niñez
+F93,Trastornos emocionales específicos en el comienzo de la niñez,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia,aparecen en niñez
+F94,Trastornos de funciones sociales específicos del comienzo de la niñez y la adolescencia,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia,aparecen en niñez
+F95,Tics,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia,aparecen en niñez
+F98,Otros trastornos emocionales y de comportamiento iniciados normalmente en la niñez y en la adolescencia,F90-F98,Trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez o en la adolescencia,aparecen en niñez
+F99,Trastorno mental no especificado en otra parte,F99,Trastornos mentales sin especificar,sin espcificar
