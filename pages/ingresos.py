@@ -1,10 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import pandas as pd
-from keplergl import KeplerGl
 from streamlit_keplergl import keplergl_static
-import plotly.graph_objects as go
 import streamlit.components.v1 as components
 import codecs
 

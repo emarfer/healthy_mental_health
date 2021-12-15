@@ -1,16 +1,38 @@
 
 import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+import streamlit as st
 
 def cargadataframe():
-    data = pd.read_csv("ourtput/clean.pkl")
+    data = pd.read_csv("output/streamlitmor.csv")
     return data
 
+
+def list_tras():
+    data = cargadataframe()
+    return list(data.title.unique())
+
+def list_sub(tras):
+    data = cargadataframe()
+    data = data[data['title']==tras]
+    return list(data.diag.unique())
+
+def grafico(diag):
+    data = cargadataframe()
+    data = data[(data["diag"]==f"{diag}")].groupby(['year','month','SexNom']).agg({'day':'count','fecha_ing':'min'}).reset_index()
+    fig = px.line(data, x="fecha_ing", y="day",color = 'SexNom')
+    
+    return st.plotly_chart(fig, use_container_width=True)
+
+
+#streamlitmor[streamlitmor['diag']=='Episodio maníaco'].groupby(['year','month','SexNom']).agg({'day':'count','fecha_ing':'min'}).reset_index()
 # def renombra_id(x):
 #     x = f"Frase {x}"
 #     return x
 
 
-# def grafico(personaje):
+# def grafico(trastorno):
 #     data = cargadataframe()
 #     data = data[(data["character_name"]==f"{personaje}")]
 #     data = data[["frase","polarity"]].reset_index(drop=True)
@@ -25,6 +47,3 @@ def cargadataframe():
 #     return data
 
 
-# def lista_personajes():
-#     data = cargadataframe()
-#     return list(data.character_name.unique())
