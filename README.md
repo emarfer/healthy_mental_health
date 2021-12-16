@@ -8,6 +8,9 @@
 #### Según la Confederación de salud mental [1 de cada 4 españoles tendrá un trastorno mental a lo largo de su vida](https://comunicalasaludmental.org/guiadeestilo/la-salud-mental-en-cifras/)
 #### En este estudio observaré cómo dirigir las campañas en función de trastorno, época del año, edad y género  
 
+## Presentación de resultados con [Streamlit](https://streamlit.io/)
+
+
 ## Método:
 - Estudio de diferentes archivos con datos sobre salud mental en España (fuentes)
     - Atención primaria: [Base de Datos Clínicos de Atención Primaria (BDCAP) del Sistema Nacional de Salud](https://pestadistico.inteligenciadegestion.mscbs.es/publicoSNS/S/base-de-datos-de-clinicos-de-atencion-primaria-bdcap)
@@ -23,7 +26,29 @@
 
 
 ## Estructura:
-**Data (y subcarpetas)**: archivos csv/excel con la información a estudiar
-**Images,
+- **Data (y subcarpetas)**: archivos csv/excel con la información a estudiar
+-  **Images**: archivos de imagen para cargar en streamlit
+- **Notebooks**: archivos de jupyter notebook con limpieza, estudio y visualización de datos
+- **output**: arhivos con datos estuidiados + gráficos html para streamlit
+- **pages**: archivos .py de la configuración de páginas de streamlit
+- **src**: archivos .py con funciones para la limpieza y estudio de de datos + streamlit
+- **main.py + multipage.py**: estructura y llamada streamlit
 
-## Libraries
+
+
+## Librerías:
+
+* [sys](https://docs.python.org/3/library/sys.html)
+* [pandas](https://pandas.pydata.org/)
+* [os](https://docs.python.org/3/library/os.html)
+* [dotenv](https://pypi.org/project/python-dotenv/)
+* [seaborn](https://seaborn.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
+* [bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [json](https://www.json.org/json-en.html)
+* [datetime](https://docs.python.org/3/library/datetime.html)
+* [matplotlib.pyplot](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
+* [plotly.express](https://plotly.com/python-api-reference/plotly.express.html)
+* [folium](http://python-visualization.github.io/folium/)
+* [numpy](https://numpy.org/)
+* [codecs](https://docs.python.org/3/library/codecs.html)
