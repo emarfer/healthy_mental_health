@@ -27,19 +27,19 @@ F24,Trastorno de ideas delirantes inducidas,F20-29,"Esquizofrenia, trastornos es
 F25,Trastornos esquizoafectivos,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",esquizotípicos/delirantes
 F28,Otros trastornos psicóticos no orgánicos,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",esquizotípicos/delirantes
 F29,Psicosis no orgánica sin especificar,F20-29,"Esquizofrenia, trastornos esquizotípicos y trastornos delirantes",esquizotípicos/delirantes
-F30,Episodio maníaco,F30-39,"Trastornos del estado de animo, trastornos afectivos",animo/afectivos
-F31,Trastorno bipolar,F30-39,"Trastornos del estado de animo, trastornos afectivos",animo/afectivos
-F32,"Trastorno depresivo mayor, episodio único",F30-39,"Trastornos del estado de animo, trastornos afectivos",animo/afectivos
-F33,"Trastorno depresivo mayor, recurrente",F30-39,"Trastornos del estado de animo, trastornos afectivos",animo/afectivos
-F34,Trastornos persistentes del estado de ánimo [afectivos],F30-39,"Trastornos del estado de animo, trastornos afectivos",animo/afectivos
-F39,"Trastorno del estado de ánimo [afectivo], no especificado",F30-39,"Trastornos del estado de animo, trastornos afectivos",animo/afectivos
-F40,Trastornos fóbicos de ansiedad,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
-F41,Otros trastornos de ansiedad,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
-F42,Trastorno obsesivo-compulsivo,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
-F43,Reacción al stress grave y trastornos de adaptación,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
-F44,Trastorno de conversión disociativo,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
-F45,Trastorno somatomorfo,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
-F48,Otras neurosis,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",nuróticos/somatomorfos
+F30,Episodio maníaco,F30-39,"Trastornos del estado de animo, trastornos afectivos",ánimo/afectivos
+F31,Trastorno bipolar,F30-39,"Trastornos del estado de animo, trastornos afectivos",ánimo/afectivos
+F32,"Trastorno depresivo mayor, episodio único",F30-39,"Trastornos del estado de animo, trastornos afectivos",ánimo/afectivos
+F33,"Trastorno depresivo mayor, recurrente",F30-39,"Trastornos del estado de animo, trastornos afectivos",ánimo/afectivos
+F34,Trastornos persistentes del estado de ánimo [afectivos],F30-39,"Trastornos del estado de animo, trastornos afectivos",ánimo/afectivos
+F39,"Trastorno del estado de ánimo [afectivo], no especificado",F30-39,"Trastornos del estado de animo, trastornos afectivos",ánimo/afectivos
+F40,Trastornos fóbicos de ansiedad,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",neuróticos/somatomorfos
+F41,Otros trastornos de ansiedad,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",neuróticos/somatomorfos
+F42,Trastorno obsesivo-compulsivo,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",neuróticos/somatomorfos
+F43,Reacción al stress grave y trastornos de adaptación,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",neuróticos/somatomorfos
+F44,Trastorno de conversión disociativo,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",neuróticos/somatomorfos
+F45,Trastorno somatomorfo,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",neuróticos/somatomorfos
+F48,Otras neurosis,F40-49,"Trastornos neuróticos, trastornos relacionados con el estrés y trastornos somatomorfos",neuróticos/somatomorfos
 F50,Trastornos de la ingestión de alimentos,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos,factores físicos /fisiológicos
 F51,Trastornos del sueño no orgánicos,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos,factores físicos /fisiológicos
 F52,Disfunción sexual no ocasionada por trastornos ni enfermedades orgánicas,F50-59,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos,factores físicos /fisiológicos

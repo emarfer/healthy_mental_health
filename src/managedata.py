@@ -19,21 +19,21 @@ def list_sub(tras):
     data = cargadataframe()
     data = data[data['title']==tras]
     lista = list(data.diag.unique())
-    lista.insert(0, "Explora los tipos de trastornos")
+    lista.insert(0, "Explora los subtipos de trastornos")
     return lista
 
 def grafico(diag):
     data = cargadataframe()
-    data = data[(data["diag"]==f"{diag}")].groupby(['year','month','SexNom']).agg({'day':'count','fecha_ing':'min'}).reset_index()
-    fig = px.line(data, x="fecha_ing", y="day",color = 'SexNom')
+    data = data[(data["diag"]==f"{diag}")].groupby(['year','month','SexNom']).agg({'day':'count','fecha_ing':'min'}).reset_index().rename({'day':'total'},axis=1)
+    fig = px.line(data, x="fecha_ing", y="total",color = 'SexNom')
     
     return st.plotly_chart(fig, use_container_width=True)
 
 
 def grafico_tit(tras):
     data = cargadataframe()
-    data = data[(data["title"]==f"{tras}")].groupby(['year','month','SexNom']).agg({'day':'count','fecha_ing':'min'}).reset_index()
-    fig = px.line(data, x="fecha_ing", y="day",color = 'SexNom')
+    data = data[(data["title"]==f"{tras}")].groupby(['year','month','SexNom']).agg({'day':'count','fecha_ing':'min'}).reset_index().rename({'day':'total'},axis=1)
+    fig = px.line(data, x="fecha_ing", y="total",color = 'SexNom')
     
     return st.plotly_chart(fig, use_container_width=True)
 

@@ -6,46 +6,28 @@ import streamlit.components.v1 as components
 import codecs
 
 def app():
-    st.write("""
+    st.title("""
             ¿Somos unos lúnaticos?        
             
             """)
-#     ing_lunas = pd.read_csv('output/total_lunas.csv')
-#     lunismo = px.histogram(ing_lunas, x="luna",y='total',color = 'luna')
-#     st.plotly_chart(lunismo, use_container_width=True)
+    
+    st.write('He relacionado las fechs de ingreso con las fechas de las 4 fases de la luna para observar si es verdad que la luna llena nos afecta tanto como se comenta')
+    st.write('En el gráfico podemos observar que no hay mucha diferencia entre el número de ingresos en función del estado de la luna')
+
     
     luna=codecs.open("output/luna.html", 'r')
     luna_ht = luna.read()
     components.html(luna_ht,height=550,width=900,scrolling=True)
     
     
-    
-    #fig_luz
-    
-    st.write('Pues parece que la luna no afeca tanto nuestros ingresos por salud mental...')
-    
-    
-    st.write("""ingresos por mes y horas de luz
-             
+    st.title("""
+             ¿Y el Sol? ¿Las horas de luz en España nos influyen?
              """)
-    
+    st.write('Como pasa con la luna podemos ver que tampoco hay una correlación entre horas de luz por mes y el númro de ingresos')
     luz=codecs.open("output/fig_luz.html", 'r')
     luz_ht = luz.read()
     components.html(luz_ht,height=550,width=900,scrolling=True)
     
-#     ingresos_mes_luz = pd.read_csv('output/ingresos_mes_luz.csv')
-#     fig_03 = go.Figure(data=[
-#     go.Bar(name="ingresos",x=ingresos_mes_luz['mes_n'],y=ingresos_mes_luz['count'],
-#            marker_color='skyblue'
-          
-#           ),
-#     go.Line(name = 'horas luz',y=ingresos_mes_luz["horas_m"], x=ingresos_mes_luz["mes_n"],
-#             marker_color='yellow'
-#            )   
-    
-#     ])
-#     st.plotly_chart(fig_03.update_layout(barmode='group'))
-
 
 
 
