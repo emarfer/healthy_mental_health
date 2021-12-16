@@ -22,5 +22,6 @@ __pycache__
 /notebooks/.ipynb_checkpoints
 /data/.~lock.diagnos.csv#
 /images/photothumb.db
+/notebooks/10_foursquare.ipynb
 
 
