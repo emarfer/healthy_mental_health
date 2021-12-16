@@ -3,7 +3,7 @@ import src.managedata as dat
 
 def app():
 
-    st.write('Selecciona un género de trastorno mental')
+    st.write('Explora los tipos de trastornos:')
     tras = st.selectbox("selecciona un tipo de trastorno", dat.list_tras())
     if tras == 'Explora los tipos de trastornos':
         st.stop()
