@@ -2,8 +2,22 @@ import streamlit as st
 import pandas as pd
 import streamlit.components.v1 as components
 import codecs
+import base64
 
 def app():
+    
+    file_ = open("images/anigifpeq.gif", "rb")
+    contents = file_.read()
+    data_url = base64.b64encode(contents).decode("utf-8")
+    file_.close()
+
+    st.sidebar.markdown(
+        f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
+        unsafe_allow_html=True
+        )   
+    
+    st.sidebar.write(':copyright: Powered by [Ester Sinaxe](http://estersinatxe.blogspot.com/)')
+ 
     st.title('Análisis de suicido y muertes por trastornos mentales')
     st.write('''
                 fuente: [INE](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176780&menu=ultiDatos&idp=1254735573175)

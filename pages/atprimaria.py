@@ -3,8 +3,23 @@ import pandas as pd
 import plotly.express as px
 import streamlit.components.v1 as components
 import codecs
+import base64
 
 def app():
+    
+    file_ = open("images/anigifpeq.gif", "rb")
+    contents = file_.read()
+    data_url = base64.b64encode(contents).decode("utf-8")
+    file_.close()
+
+    st.sidebar.markdown(
+        f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
+        unsafe_allow_html=True
+        )   
+    
+    st.sidebar.write(':copyright: Powered by [Ester Sinaxe](http://estersinatxe.blogspot.com/)')
+ 
+    
     
     st.header(
         '''

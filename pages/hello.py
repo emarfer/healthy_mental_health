@@ -9,6 +9,20 @@ import pandas as pd
 import base64
 
 def app():
+    
+    file_ = open("images/anigifpeq.gif", "rb")
+    contents = file_.read()
+    data_url = base64.b64encode(contents).decode("utf-8")
+    file_.close()
+
+    st.sidebar.markdown(
+        f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
+        unsafe_allow_html=True
+        )   
+    
+    st.sidebar.write(':copyright: Powered by [Ester Sinaxe](http://estersinatxe.blogspot.com/)')
+ 
+    
     """### gif from local file"""
     st.title('Salud mental', anchor=None)
     st.subheader('''
@@ -17,24 +31,16 @@ def app():
     
     
     
-    file_ = open("images/anigif.gif", "rb")
-    contents = file_.read()
-    data_url = base64.b64encode(contents).decode("utf-8")
-    file_.close()
 
-    st.markdown(
-        f'<img src="data:image/gif;base64,{data_url}" alt="cat gif">',
-        unsafe_allow_html=True
-        )   
-    
     
     st.title('¿Por qué este estudio?')
-    st.write('''
-             Creo que necesitamos hablar abiertamente de salud mental. Es urgente desarrollar campañas sobre prevención y conciención para manternos informados ya que es un problema que nos afecta a todos.
+    st.subheader('''
+             Creo que necesitamos hablar abiertamente de salud mental. Es urgente implementar campañas de concienciación para manternos informados ya que es un problema que nos afecta a todos, ya sea a nosotros mismos o alguien muy cercano.
              ''')
-    st.write('''
+    st.subheader('''
              Según la Confederación de salud mental [1 de cada 4 españoles tendrá un trastorno mental a lo largo de su vida](https://comunicalasaludmental.org/guiadeestilo/la-salud-mental-en-cifras/)
              ''')
-    st.write('''
-             En este estudio observaré cómo dirigir las campañas en función de trastorno, época del año, edad y género             
+    st.subheader('''
+             En este estudio observaremos algunos patrones que podrán ayudar a desarrollar estas campañas en función diversos parámtros, como sexo o época del año.          
              ''')
+    
