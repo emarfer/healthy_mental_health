@@ -14,7 +14,7 @@ def app():
         unsafe_allow_html=True
         )   
     
-    st.sidebar.write(':copyright: Powered by [Ester Sinaxe](http://estersinatxe.blogspot.com/)')
+    st.sidebar.write(':copyright: Powered by [Ester Sinaxe](http://estersinatxe.blogspot.com/2015/12/su-mente-rota.html)')
  
 
     st.title('Compartaiva ingresos por sexo y tipo de trastorno y subtipo')

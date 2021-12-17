@@ -15,9 +15,10 @@ app = MultiPage()
 app.add_page("Home", hello.app)
 app.add_page('Atencion primaria', atprimaria.app)
 app.add_page('Ingresos hospitalarios', ingresos.app)
-app.add_page('Luces y sombras', teorias.app)
+
 app.add_page('Demasiadas muertes', defunciones.app)
 app.add_page('Comparativa', grafiquillos.app)
+app.add_page('Luces y sombras', teorias.app)
 app.add_page('Pide ayuda', helpin.app)
 
 
