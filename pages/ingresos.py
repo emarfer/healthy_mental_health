@@ -42,7 +42,7 @@ def app():
     
     
     st.subheader('Correlación entre los días que el paciente ha estado ingresado y el tipo trastorno mental padecido')
-    st.write('(Tras estudiar los datos y los outlayers, se ha reducido el grupo de estudio a pacientes que han estado ingresados como mucho 50 días)')
+    st.write('(Tras estudiar los datos y los "outlayers", se ha reducido el grupo de estudio a pacientes que han estado ingresados como mucho 50 días)')
     st.write('''
              - Los pacientes que pasan más tiempo ingresados de media son los que padecen alguno de los Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos como los trastornos de la ingestión de alimentos
              - Seguidos de los trastornos esquizotípicos(esquizofreina, psicóticos agudos) y del ánimo/afectivos(trastorno bipolar, depresión)
