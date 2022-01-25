@@ -23,7 +23,7 @@ def app():
  
     
     st.title('Busca ayuda')
-    st.write('Inserta tu ubiación y luego la distancia en metros máxia que quieres recorrer y te mostrarermos una lista de dispositivos de salud mental, su direcciones y teléfonos')
+    st.write('Inserta tu ubiación y luego la distancia en metros máximia que quieres recorrer y te mostrarermos una lista de dispositivos de salud mental, su direcciones y teléfonos')
     
     lugar = st.text_input('¿Dónde estás?')
     if lugar == '':

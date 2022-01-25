@@ -41,6 +41,6 @@ def app():
              Según la Confederación de salud mental [1 de cada 4 españoles tendrá un trastorno mental a lo largo de su vida](https://comunicalasaludmental.org/guiadeestilo/la-salud-mental-en-cifras/)
              ''')
     st.subheader('''
-             En este estudio observaremos algunos patrones que podrán ayudar a desarrollar estas campañas en función diversos parámtros, como sexo o época del año.          
+             En este estudio observaremos algunos patrones que podrán ayudar a desarrollar estas campañas en función diversos parámetros, como sexo o época del año.          
              ''')
     

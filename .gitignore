@@ -1,3 +1,6 @@
+**/.DS_Store
+**/*.ipynb_checkpoints/
+**/__pycache__
 /pruebas
 .env
 /data/morbilidad/anterior
@@ -25,5 +28,6 @@ __pycache__
 /notebooks/10_foursquare.ipynb
 /notebooks/10_localizaciones.ipynb
 /kepler_inento
+
 
 

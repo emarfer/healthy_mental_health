@@ -58,13 +58,13 @@ def app():
     st.title("""
      Mapa comparativo Renta media por hogar / problemas de salud mental:
     """)
-    st.write('Estudiamos una si existe una correlación entre factores socieconómicos, a nivel macro, con la cantidad de casos relacionados con la salud mental en atención primaria')
+    st.write('Estudiamos si existe una correlación entre factores socieconómicos, a nivel macro, con la cantidad de casos relacionados con la salud mental en atención primaria, por comunidad autónoma')
     st.write('''
-             - Observamos en País Vasco con datos altos de nivel de renta hay menos casos de salud mental
-             - Mientras en Andalucía y Extremadura con muy poco nivel de renta por hogar hay también muy pocos casos en atención primaria
+             - En el País Vasco observamos que, con altos niveles de renta hay pocos casos de salud mental
+             - Mientras en Andalucía y Extremadura con muy poco nivel de renta por hogar, también hay muy pocos casos en atención primaria
              '''
              )
-    st.write('Concluimos que a nivel macro no observamos inferencia del nivel socioecómico en salud mental')
+    st.write('Concluimos que, a nivel autonómico, no observamos ningún tipo de inferencia del nivel socioecómico en los problemas de salud mental')
     st.subheader('Comparativa por comunidades autónmas')
     f=codecs.open("output/dual_renta_at_prim.html", 'r')
     mapa = f.read()
