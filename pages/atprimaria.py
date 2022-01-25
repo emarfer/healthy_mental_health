@@ -23,7 +23,7 @@ def app():
     
     st.header(
         '''
-        Análisis de los datos en Atención Primaria
+        Análisis de los datos en Atención Primaria:
         '''
     )
     
